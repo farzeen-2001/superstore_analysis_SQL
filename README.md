@@ -6,18 +6,18 @@ The project demonstrates analysis of the store performance by exploring metrics 
 Order Date and Ship Date were converted to proper DATE format.
 
 -Key Metrics Calculated:
-Total Sales-530056
-Total Profit-54204
-Total Quantity Sold-8868
-Average Discount-15%
-Profit Margin-10%
+1. Total Sales-530056
+2. Total Profit-54204
+3. Total Quantity Sold-8868
+4. Average Discount-15%
+5. Profit Margin-10%
 
 -Sales & Profit Insights:
-Top Regions by Sales
-Top 5 Sub-Categories by Sales
-Sales by Segment
-Top 5 States by Profit
-Sales by Category
+1. Top Regions by Sales
+2. Top 5 Sub-Categories by Sales
+3. Sales by Segment
+4. Top 5 States by Profit
+5. Sales by Category
 
 -Findings
 1. Average delivery time is 3.84 that depicts the orders are delivered within the time range of 3-4 days
